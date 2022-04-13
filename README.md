@@ -1,0 +1,1 @@
+# idx-emiten-detail-parser
