@@ -1,0 +1,767 @@
+code,industri,sub-industri
+AALI,Produk Makanan Pertanian,Perkebunan & Tanaman Pangan
+ABBA,Media,Penerbitan
+ABDA,Asuransi,Asuransi Umum
+ABMM,Perusahaan Holding Multi-sektor,Perusahaan Holding Multi-sektor
+ACES,Ritel Khusus,Ritel Barang Rumah Tangga
+ACST,Konstruksi Bangunan,Konstruksi Bangunan
+ADES,Minuman,Minuman Ringan
+ADHI,Konstruksi Bangunan,Konstruksi Bangunan
+ADMF,Pembiayaan Konsumen,Pembiayaan Konsumen
+ADMG,Barang Kimia,Barang Kimia Dasar
+ADRO,Batu Bara,Produksi Batu Bara
+AGAR,Produk Makanan Pertanian,"Ikan, Daging & Produk Unggas"
+AGII,Barang Kimia,Barang Kimia Dasar
+AIMS,Batu Bara,Produksi Batu Bara
+AISA,Makanan Olahan,Makanan Olahan
+ALKA,Logam & Mineral,Alumunium
+ALMI,Logam & Mineral,Alumunium
+ALTO,Minuman,Minuman Ringan
+AMAG,Asuransi,Asuransi Umum
+AMAN,Pengelola & Pengembang Real Estat,Pengembang & Operator Real Estat
+AMAR,Bank,Bank
+AMFG,Produk & Perlengkapan Bangunan,Produk & Perlengkapan Bangunan
+AMIN,Mesin,Mesin & Komponen Perindustrian
+AMOR,Jasa Investasi,Manajemen Investasi
+AMRT,Perdagangan Ritel Barang Primer,Supermarket
+ANDI,Produk Makanan Pertanian,Perkebunan & Tanaman Pangan
+ANJT,Produk Makanan Pertanian,Perkebunan & Tanaman Pangan
+ANTM,Logam & Mineral,Logam & Mineral Lainnya
+APEX,"Pendukung Minyak, Gas & Batu Bara",Jasa Pengeboran Minyak & Gas
+APIC,Perusahaan Holding & Investasi,Perusahaan Holding Keuangan
+APII,Mesin,Mesin & Komponen Perindustrian
+APLI,Barang Kimia,Barang Kimia Khusus
+APLN,Pengelola & Pengembang Real Estat,Pengembang & Operator Real Estat
+ARCI,Logam & Mineral,Emas
+ARGO,Pakaian & Barang Mewah,Tekstil
+ARII,Batu Bara,Produksi Batu Bara
+ARKA,Mesin,Mesin & Komponen Perindustrian
+ARMY,Pengelola & Pengembang Real Estat,Pengembang & Operator Real Estat
+ARNA,Produk & Perlengkapan Bangunan,Produk & Perlengkapan Bangunan
+ARTA,Pariwisata & Rekreasi,"Hotel, Resor & Kapal Pesiar"
+ARTO,Bank,Bank
+ASBI,Asuransi,Asuransi Umum
+ASDM,Asuransi,Asuransi Umum
+ASGR,Jasa Komersial,Jasa Pendukung Bisnis
+ASII,Perusahaan Holding Multi-sektor,Perusahaan Holding Multi-sektor
+ASJT,Asuransi,Asuransi Umum
+ASMI,Asuransi,Asuransi Umum
+ASPI,Pengelola & Pengembang Real Estat,Pengembang & Operator Real Estat
+ASRI,Pengelola & Pengembang Real Estat,Pengembang & Operator Real Estat
+ASRM,Asuransi,Asuransi Umum
+ASSA,Pengangkutan Darat Penumpang,Transportasi Jalanan
+ATIC,Jasa & Konsultan TI,Jasa & Konsultan TI
+AUTO,Komponen Otomotif,Suku Cadang Otomotif
+AVIA,Barang Kimia,Barang Kimia Khusus
+AYLS,Material Konstruksi,Material Konstruksi
+BABP,Bank,Bank
+BACA,Bank,Bank
+BAJA,Logam & Mineral,Baja & Besi
+BALI,Jasa Telekomunikasi Nirkabel,Jasa Telekomunikasi Nirkabel
+BANK,Bank,Bank
+BAPA,Pengelola & Pengembang Real Estat,Pengembang & Operator Real Estat
+BAPI,Pengelola & Pengembang Real Estat,Pengembang & Operator Real Estat
+BATA,Pakaian & Barang Mewah,Alas Kaki
+BAYU,Pariwisata & Rekreasi,Agen Perjalanan
+BBCA,Bank,Bank
+BBHI,Bank,Bank
+BBKP,Bank,Bank
+BBMD,Bank,Bank
+BBNI,Bank,Bank
+BBRI,Bank,Bank
+BBRM,Batu Bara,Distribusi Batu Bara
+BBSI,Bank,Bank
+BBSS,Pengelola & Pengembang Real Estat,Pengembang & Operator Real Estat
+BBTN,Bank,Bank
+BBYB,Bank,Bank
+BCAP,Perusahaan Holding & Investasi,Perusahaan Holding Keuangan
+BCIC,Bank,Bank
+BCIP,Pengelola & Pengembang Real Estat,Pengembang & Operator Real Estat
+BDMN,Bank,Bank
+BEBS,Material Konstruksi,Material Konstruksi
+BEEF,Makanan Olahan,Makanan Olahan
+BEKS,Bank,Bank
+BELL,Pakaian & Barang Mewah,Tekstil
+BESS,Batu Bara,Distribusi Batu Bara
+BEST,Pengelola & Pengembang Real Estat,Pengembang & Operator Real Estat
+BFIN,Pembiayaan Konsumen,Pembiayaan Konsumen
+BGTG,Bank,Bank
+BHAT,Asuransi,Asuransi Jiwa
+BHIT,Perusahaan Holding Multi-sektor,Perusahaan Holding Multi-sektor
+BIKA,Pengelola & Pengembang Real Estat,Pengembang & Operator Real Estat
+BIMA,Pakaian & Barang Mewah,Alas Kaki
+BINA,Bank,Bank
+BINO,Jasa Komersial,Peralatan Kantor
+BIPI,Minyak & Gas,Produksi & Penyulingan Minyak & Gas
+BIPP,Pengelola & Pengembang Real Estat,Pengembang & Operator Real Estat
+BIRD,Pengangkutan Darat Penumpang,Transportasi Jalanan
+BISI,Produk Makanan Pertanian,Perkebunan & Tanaman Pangan
+BJBR,Bank,Bank
+BJTM,Bank,Bank
+BKDP,Pengelola & Pengembang Real Estat,Pengembang & Operator Real Estat
+BKSL,Pengelola & Pengembang Real Estat,Pengembang & Operator Real Estat
+BKSW,Bank,Bank
+BLTA,Logistik & Pengantaran,Logistik & Pengantaran
+BLTZ,Pariwisata & Rekreasi,Fasilitas Rekreasi & Olah Raga
+BLUE,Jasa Komersial,Peralatan Kantor
+BMAS,Bank,Bank
+BMHS,Penyedia Jasa Kesehatan,Penyedia Jasa Kesehatan
+BMRI,Bank,Bank
+BMSR,Barang Kimia,Barang Kimia Dasar
+BMTR,Perusahaan Holding Multi-sektor,Perusahaan Holding Multi-sektor
+BNBA,Bank,Bank
+BNBR,Perusahaan Holding Multi-sektor,Perusahaan Holding Multi-sektor
+BNGA,Bank,Bank
+BNII,Bank,Bank
+BNLI,Bank,Bank
+BOBA,Makanan Olahan,Makanan Olahan
+BOGA,Ritel Khusus,Ritel Otomotif
+BOLA,Pariwisata & Rekreasi,Fasilitas Rekreasi & Olah Raga
+BOLT,Komponen Otomotif,Suku Cadang Otomotif
+BOSS,Batu Bara,Produksi Batu Bara
+BPFI,Pembiayaan Konsumen,Pembiayaan Konsumen
+BPII,Perusahaan Holding & Investasi,Perusahaan Holding Keuangan
+BPTR,Pengangkutan Darat Penumpang,Transportasi Jalanan
+BRAM,Komponen Otomotif,Ban
+BRIS,Bank,Bank
+BRMS,Logam & Mineral,Logam & Mineral Lainnya
+BRNA,Wadah & Kemasan,Wadah & Kemasan
+BRPT,Barang Kimia,Barang Kimia Dasar
+BSDE,Pengelola & Pengembang Real Estat,Pengembang & Operator Real Estat
+BSIM,Bank,Bank
+BSML,Batu Bara,Distribusi Batu Bara
+BSSR,Batu Bara,Produksi Batu Bara
+BSWD,Bank,Bank
+BTEK,Produk Makanan Pertanian,Perkebunan & Tanaman Pangan
+BTEL,Jasa Telekomunikasi Nirkabel,Jasa Telekomunikasi Nirkabel
+BTON,Logam & Mineral,Baja & Besi
+BTPN,Bank,Bank
+BTPS,Bank,Bank
+BUDI,Makanan Olahan,Makanan Olahan
+BUKA,Aplikasi & Jasa Internet,Aplikasi & Jasa Internet
+BUKK,Konstruksi Bangunan,Konstruksi Bangunan
+BULL,Minyak & Gas,Penyimpanan & Distribusi Minyak & Gas
+BUMI,Batu Bara,Produksi Batu Bara
+BUVA,Pariwisata & Rekreasi,"Hotel, Resor & Kapal Pesiar"
+BVIC,Bank,Bank
+BWPT,Produk Makanan Pertanian,Perkebunan & Tanaman Pangan
+BYAN,Batu Bara,Produksi Batu Bara
+CAKK,Produk & Perlengkapan Bangunan,Produk & Perlengkapan Bangunan
+CAMP,Makanan Olahan,Produk Susu Olahan
+CANI,Batu Bara,Distribusi Batu Bara
+CARE,Penyedia Jasa Kesehatan,Penyedia Jasa Kesehatan
+CARS,Ritel Khusus,Ritel Otomotif
+CASA,Perusahaan Holding & Investasi,Perusahaan Holding Keuangan
+CASH,Aplikasi & Jasa Internet,Aplikasi & Jasa Internet
+CASS,Operator Infrastruktur Transportasi,Operator Bandar Udara
+CBMF,Barang Rumah Tangga,Produsen Furnitur Rumah
+CCSI,Kelistrikan,Komponen & Peralatan Kelistrikan
+CEKA,Makanan Olahan,Makanan Olahan
+CENT,Jasa Telekomunikasi Nirkabel,Jasa Telekomunikasi Nirkabel
+CFIN,Pembiayaan Konsumen,Pembiayaan Konsumen
+CINT,Barang Rumah Tangga,Produsen Furnitur Rumah
+CITA,Logam & Mineral,Alumunium
+CITY,Pengelola & Pengembang Real Estat,Pengembang & Operator Real Estat
+CLAY,Pariwisata & Rekreasi,"Hotel, Resor & Kapal Pesiar"
+CLEO,Minuman,Minuman Ringan
+CLPI,Barang Kimia,Barang Kimia Khusus
+CMNP,Operator Infrastruktur Transportasi,Operator Jalan Tol & Rel
+CMNT,Material Konstruksi,Material Konstruksi
+CMPP,Maskapai Penerbangan,Maskapai Penerbangan
+CMRY,Makanan Olahan,Produk Susu Olahan
+CNKO,Batu Bara,Distribusi Batu Bara
+CNTX,Pakaian & Barang Mewah,Tekstil
+COCO,Makanan Olahan,Makanan Olahan
+CPIN,Produk Makanan Pertanian,"Ikan, Daging & Produk Unggas"
+CPRI,Pengelola & Pengembang Real Estat,Pengembang & Operator Real Estat
+CPRO,Produk Makanan Pertanian,"Ikan, Daging & Produk Unggas"
+CSAP,Ritel Khusus,Ritel Barang Rumah Tangga
+CSIS,Pengelola & Pengembang Real Estat,Pengembang & Operator Real Estat
+CSMI,Pariwisata & Rekreasi,Rumah Makan
+CSRA,Produk Makanan Pertanian,Perkebunan & Tanaman Pangan
+CTBN,Logam & Mineral,Baja & Besi
+CTRA,Pengelola & Pengembang Real Estat,Pengembang & Operator Real Estat
+DADA,Pengelola & Pengembang Real Estat,Pengembang & Operator Real Estat
+DART,Pengelola & Pengembang Real Estat,Pengembang & Operator Real Estat
+DAYA,Perdagangan Ritel Barang Primer,Ritel & Distributor Obat-obatan
+DCII,Jasa & Konsultan TI,Jasa & Konsultan TI
+DEAL,Logistik & Pengantaran,Logistik & Pengantaran
+DEFI,Pembiayaan Konsumen,Pembiayaan Konsumen
+DEPO,Ritel Khusus,Ritel Barang Rumah Tangga
+DEWA,"Pendukung Minyak, Gas & Batu Bara","Jasa & Perlengkapan Minyak, Gas & Batu Bara"
+DFAM,Pariwisata & Rekreasi,"Hotel, Resor & Kapal Pesiar"
+DGIK,Konstruksi Bangunan,Konstruksi Bangunan
+DGNS,Penyedia Jasa Kesehatan,Penyedia Jasa Kesehatan
+DIGI,Media,Penerbitan
+DILD,Pengelola & Pengembang Real Estat,Pengembang & Operator Real Estat
+DIVA,Aplikasi & Jasa Internet,Aplikasi & Jasa Internet
+DKFT,Logam & Mineral,Logam & Mineral Lainnya
+DLTA,Minuman,Minuman Keras
+DMAS,Pengelola & Pengembang Real Estat,Pengembang & Operator Real Estat
+DMMX,Jasa & Konsultan TI,Jasa & Konsultan TI
+DMND,Perdagangan Ritel Barang Primer,Ritel & Distributor Makanan
+DNAR,Bank,Bank
+DNET,Perusahaan Holding & Investasi,Perusahaan Investasi
+DPNS,Barang Kimia,Barang Kimia Khusus
+DPUM,Produk Makanan Pertanian,"Ikan, Daging & Produk Unggas"
+DRMA,Komponen Otomotif,Suku Cadang Otomotif
+DSFI,Produk Makanan Pertanian,"Ikan, Daging & Produk Unggas"
+DSNG,Produk Makanan Pertanian,Perkebunan & Tanaman Pangan
+DSSA,Batu Bara,Produksi Batu Bara
+DUCK,Pariwisata & Rekreasi,Rumah Makan
+DUTI,Pengelola & Pengembang Real Estat,Pengembang & Operator Real Estat
+DVLA,Farmasi,Farmasi
+DWGL,Batu Bara,Distribusi Batu Bara
+DYAN,Jasa Komersial,Jasa Pendukung Bisnis
+EAST,Pariwisata & Rekreasi,"Hotel, Resor & Kapal Pesiar"
+ECII,Ritel Khusus,Ritel Elektronik
+EDGE,Aplikasi & Jasa Internet,Jasa & Konsultan TI
+EKAD,Barang Kimia,Barang Kimia Khusus
+ELSA,"Pendukung Minyak, Gas & Batu Bara",Jasa Pengeboran Minyak & Gas
+ELTY,Pengelola & Pengembang Real Estat,Pengembang & Operator Real Estat
+EMDE,Pengelola & Pengembang Real Estat,Pengembang & Operator Real Estat
+EMTK,Aplikasi & Jasa Internet,Aplikasi & Jasa Internet
+ENRG,Minyak & Gas,Produksi & Penyulingan Minyak & Gas
+ENZO,Produk Makanan Pertanian,"Ikan, Daging & Produk Unggas"
+EPAC,Wadah & Kemasan,Wadah & Kemasan
+EPMT,Perdagangan Ritel Barang Primer,Ritel & Distributor Obat-obatan
+ERAA,Ritel Khusus,Ritel Elektronik
+ERTX,Pakaian & Barang Mewah,"Pakaian, Aksesoris, & Tas"
+ESIP,Wadah & Kemasan,Wadah & Kemasan
+ESSA,Barang Kimia,Barang Kimia Dasar
+ESTA,Pariwisata & Rekreasi,"Hotel, Resor & Kapal Pesiar"
+ESTI,Pakaian & Barang Mewah,Tekstil
+ETWA,Bahan Bakar Alternatif,Bahan Bakar Alternatif
+EXCL,Jasa Telekomunikasi Nirkabel,Jasa Telekomunikasi Nirkabel
+FAPA,Produk Makanan Pertanian,Perkebunan & Tanaman Pangan
+FAST,Pariwisata & Rekreasi,Rumah Makan
+FASW,Wadah & Kemasan,Wadah & Kemasan
+FILM,Hiburan & Film,Hiburan & Film
+FIMP,Konstruksi Bangunan,Konstruksi Bangunan
+FIRE,Batu Bara,Distribusi Batu Bara
+FISH,Produk Makanan Pertanian,Perkebunan & Tanaman Pangan
+FITT,Pariwisata & Rekreasi,"Hotel, Resor & Kapal Pesiar"
+FLMC,Produk Perawatan Tubuh,Produk Perawatan Tubuh
+FMII,Pengelola & Pengembang Real Estat,Pengembang & Operator Real Estat
+FOOD,Makanan Olahan,Makanan Olahan
+FORU,Media,Periklanan
+FORZ,Pengelola & Pengembang Real Estat,Pengembang & Operator Real Estat
+FPNI,Barang Kimia,Barang Kimia Dasar
+FREN,Jasa Telekomunikasi Nirkabel,Jasa Telekomunikasi Nirkabel
+FUJI,Pembiayaan Konsumen,Pembiayaan Konsumen
+GAMA,Pengelola & Pengembang Real Estat,Pengembang & Operator Real Estat
+GDST,Logam & Mineral,Baja & Besi
+GDYR,Komponen Otomotif,Ban
+GEMA,Barang Rumah Tangga,Produsen Furnitur Rumah
+GEMS,Batu Bara,Produksi Batu Bara
+GGRM,Rokok,Rokok
+GGRP,Logam & Mineral,Baja & Besi
+GIAA,Maskapai Penerbangan,Maskapai Penerbangan
+GJTL,Komponen Otomotif,Ban
+GLOB,Ritel Khusus,Ritel Elektronik
+GLVA,"Perangkat, Instrumen & Komponen Elektronik",Perangkat & Instrumen Elektronik
+GMFI,Operator Infrastruktur Transportasi,Operator Bandar Udara
+GMTD,Pengelola & Pengembang Real Estat,Pengembang & Operator Real Estat
+GOLD,Jasa Telekomunikasi Nirkabel,Jasa Telekomunikasi Nirkabel
+GOLL,Produk Makanan Pertanian,Perkebunan & Tanaman Pangan
+GOOD,Makanan Olahan,Makanan Olahan
+GPRA,Pengelola & Pengembang Real Estat,Pengembang & Operator Real Estat
+GPSO,Mesin,Mesin & Komponen Perindustrian
+GSMF,Perusahaan Holding & Investasi,Perusahaan Holding Keuangan
+GTBO,Batu Bara,Produksi Batu Bara
+GTSI,Minyak & Gas,Penyimpanan & Distribusi Minyak & Gas
+GWSA,Pengelola & Pengembang Real Estat,Pengembang & Operator Real Estat
+GZCO,Produk Makanan Pertanian,Perkebunan & Tanaman Pangan
+HADE,Utilitas Gas,Utilitas Gas
+HAIS,Logistik & Pengantaran,Logistik & Pengantaran
+HDFA,Pembiayaan Konsumen,Pembiayaan Konsumen
+HDIT,Aplikasi & Jasa Internet,Aplikasi & Jasa Internet
+HDTX,Pakaian & Barang Mewah,Tekstil
+HEAL,Penyedia Jasa Kesehatan,Penyedia Jasa Kesehatan
+HELI,Maskapai Penerbangan,Maskapai Penerbangan
+HERO,Perdagangan Ritel Barang Primer,Supermarket
+HEXA,Mesin,Mesin Konstruksi & Kendaraan Berat
+HITS,Minyak & Gas,Penyimpanan & Distribusi Minyak & Gas
+HKMU,Logam & Mineral,Alumunium
+HMSP,Rokok,Rokok
+HOKI,Makanan Olahan,Makanan Olahan
+HOME,Pariwisata & Rekreasi,"Hotel, Resor & Kapal Pesiar"
+HOMI,Pengelola & Pengembang Real Estat,Pengembang & Operator Real Estat
+HOPE,Mesin,Mesin Konstruksi & Kendaraan Berat
+HOTL,Pariwisata & Rekreasi,"Hotel, Resor & Kapal Pesiar"
+HRME,Pariwisata & Rekreasi,"Hotel, Resor & Kapal Pesiar"
+HRTA,Pakaian & Barang Mewah,"Pakaian, Aksesoris, & Tas"
+HRUM,Batu Bara,Produksi Batu Bara
+IATA,Maskapai Penerbangan,Maskapai Penerbangan
+IBFN,Pembiayaan Konsumen,Pembiayaan Konsumen
+IBST,Jasa Telekomunikasi Nirkabel,Jasa Telekomunikasi Nirkabel
+ICBP,Makanan Olahan,Makanan Olahan
+ICON,Jasa Komersial,Jasa Pendukung Bisnis
+IDEA,Pendidikan & Jasa Penunjang,Jasa Pendidikan
+IDPR,Konstruksi Bangunan,Konstruksi Bangunan
+IFII,Perhutanan & Kertas,Kayu
+IFSH,Logam & Mineral,Logam & Mineral Lainnya
+IGAR,Wadah & Kemasan,Wadah & Kemasan
+IIKP,Peralatan Olah Raga & Barang Hobi,Peralatan Olah Raga & Barang Hobi
+IKAI,Pariwisata & Rekreasi,"Hotel, Resor & Kapal Pesiar"
+IKAN,Produk Makanan Pertanian,"Ikan, Daging & Produk Unggas"
+IKBI,Kelistrikan,Komponen & Peralatan Kelistrikan
+IMAS,Ritel Khusus,Ritel Otomotif
+IMJS,Pembiayaan Konsumen,Pembiayaan Konsumen
+IMPC,Produk & Perlengkapan Bangunan,Produk & Perlengkapan Bangunan
+INAF,Farmasi,Farmasi
+INAI,Logam & Mineral,Alumunium
+INCI,Barang Kimia,Barang Kimia Dasar
+INCO,Logam & Mineral,Logam & Mineral Lainnya
+INDF,Makanan Olahan,Makanan Olahan
+INDO,Pengelola & Pengembang Real Estat,Jasa Real Estat
+INDR,Pakaian & Barang Mewah,Tekstil
+INDS,Komponen Otomotif,Suku Cadang Otomotif
+INDX,Jasa Profesional,Jasa Penelitian & Konsultasi
+INDY,Batu Bara,Produksi Batu Bara
+INKP,Perhutanan & Kertas,Kertas
+INOV,Pakaian & Barang Mewah,Tekstil
+INPC,Bank,Bank
+INPP,Pengelola & Pengembang Real Estat,Pengembang & Operator Real Estat
+INPS,Minyak & Gas,Penyimpanan & Distribusi Minyak & Gas
+INRU,Perhutanan & Kertas,Kertas
+INTA,Mesin,Mesin Konstruksi & Kendaraan Berat
+INTD,Perhutanan & Kertas,Kertas
+INTP,Material Konstruksi,Material Konstruksi
+IPAC,Pengelola & Pengembang Real Estat,Pengembang & Operator Real Estat
+IPCC,Operator Infrastruktur Transportasi,Operator Pelabuhan
+IPCM,Operator Infrastruktur Transportasi,Operator Pelabuhan
+IPOL,Wadah & Kemasan,Wadah & Kemasan
+IPPE,Produk Makanan Pertanian,Perkebunan & Tanaman Pangan
+IPTV,Pengelola & Pengembang Real Estat,Pengembang & Operator Real Estat
+IRRA,Peralatan & Perlengkapan Kesehatan,Penyedia & Distribusi Perlengkapan Kesehatan
+ISAT,Jasa Telekomunikasi Nirkabel,Jasa Telekomunikasi Nirkabel
+ITIC,Rokok,Rokok
+ITMA,"Pendukung Minyak, Gas & Batu Bara","Jasa & Perlengkapan Minyak, Gas & Batu Bara"
+ITMG,Batu Bara,Produksi Batu Bara
+JAST,Jasa Telekomunikasi,Jasa Telekomunikasi Kabel
+JAWA,Produk Makanan Pertanian,Perkebunan & Tanaman Pangan
+JAYA,Logistik & Pengantaran,Logistik & Pengantaran
+JECC,Kelistrikan,Komponen & Peralatan Kelistrikan
+JGLE,Pariwisata & Rekreasi,Fasilitas Rekreasi & Olah Raga
+JIHD,Pariwisata & Rekreasi,"Hotel, Resor & Kapal Pesiar"
+JKON,Konstruksi Bangunan,Konstruksi Bangunan
+JKSW,Material Konstruksi,Material Konstruksi
+JMAS,Asuransi,Asuransi Jiwa
+JPFA,Produk Makanan Pertanian,"Ikan, Daging & Produk Unggas"
+JRPT,Pengelola & Pengembang Real Estat,Pengembang & Operator Real Estat
+JSKY,Peralatan Energi Alternatif,Peralatan Energi Alternatif
+JSMR,Operator Infrastruktur Transportasi,Operator Jalan Tol & Rel
+JSPT,Pariwisata & Rekreasi,"Hotel, Resor & Kapal Pesiar"
+JTPE,Jasa Komersial,Percetakan Komersial
+KAEF,Farmasi,Farmasi
+KARW,Operator Infrastruktur Transportasi,Operator Pelabuhan
+KAYU,Perhutanan & Kertas,Kayu
+KBAG,Pengelola & Pengembang Real Estat,Pengembang & Operator Real Estat
+KBLI,Kelistrikan,Komponen & Peralatan Kelistrikan
+KBLM,Kelistrikan,Komponen & Peralatan Kelistrikan
+KBLV,Jasa Telekomunikasi,Jasa Telekomunikasi Kabel
+KBRI,Perhutanan & Kertas,Kertas
+KDSI,Wadah & Kemasan,Wadah & Kemasan
+KEEN,Utilitas Listrik,Utilitas Listrik
+KEJU,Makanan Olahan,Produk Susu Olahan
+KIAS,Produk & Perlengkapan Bangunan,Produk & Perlengkapan Bangunan
+KICI,Barang Rumah Tangga,Perlengkapan Rumah Tangga
+KIJA,Pengelola & Pengembang Real Estat,Pengembang & Operator Real Estat
+KINO,Produk Perawatan Tubuh,Produk Perawatan Tubuh
+KIOS,Aplikasi & Jasa Internet,Aplikasi & Jasa Internet
+KJEN,Logistik & Pengantaran,Logistik & Pengantaran
+KKGI,Batu Bara,Produksi Batu Bara
+KLBF,Farmasi,Farmasi
+KMDS,Perdagangan Ritel Barang Primer,Ritel & Distributor Makanan
+KMTR,Perhutanan & Kertas,Produk Hutan Lainnya
+KOBX,Mesin,Mesin Konstruksi & Kendaraan Berat
+KOIN,Produk & Perlengkapan Bangunan,Produk & Perlengkapan Bangunan
+KONI,Jasa Komersial,Peralatan Kantor
+KOPI,Minyak & Gas,Penyimpanan & Distribusi Minyak & Gas
+KOTA,Pengelola & Pengembang Real Estat,Pengembang & Operator Real Estat
+KPAL,Mesin,Mesin Konstruksi & Kendaraan Berat
+KPAS,Produk Perawatan Tubuh,Produk Perawatan Tubuh
+KPIG,Pariwisata & Rekreasi,"Hotel, Resor & Kapal Pesiar"
+KRAH,Mesin,Mesin & Komponen Perindustrian
+KRAS,Logam & Mineral,Baja & Besi
+KREN,Aplikasi & Jasa Internet,Aplikasi & Jasa Internet
+KUAS,Produk & Perlengkapan Bangunan,Produk & Perlengkapan Bangunan
+LABA,Mesin,Mesin & Komponen Perindustrian
+LAND,Pengelola & Pengembang Real Estat,Pengembang & Operator Real Estat
+LAPD,Utilitas Listrik,Utilitas Listrik
+LCGP,Pengelola & Pengembang Real Estat,Pengembang & Operator Real Estat
+LCKM,Jasa Telekomunikasi Nirkabel,Jasa Telekomunikasi Nirkabel
+LEAD,Minyak & Gas,Penyimpanan & Distribusi Minyak & Gas
+LFLO,Barang Rumah Tangga,Produsen Furnitur Rumah
+LIFE,Asuransi,Asuransi Jiwa
+LINK,Jasa Telekomunikasi,Jasa Telekomunikasi Kabel
+LION,Jasa Komersial,Peralatan Kantor
+LMAS,Jasa & Konsultan TI,Jasa & Konsultan TI
+LMPI,Barang Rumah Tangga,Perlengkapan Rumah Tangga
+LMSH,Logam & Mineral,Baja & Besi
+LPCK,Pengelola & Pengembang Real Estat,Pengembang & Operator Real Estat
+LPGI,Asuransi,Asuransi Umum
+LPKR,Pengelola & Pengembang Real Estat,Pengembang & Operator Real Estat
+LPLI,Pengelola & Pengembang Real Estat,Pengembang & Operator Real Estat
+LPPF,Department Store,Department Store
+LPPS,Perusahaan Holding & Investasi,Perusahaan Investasi
+LRNA,Pengangkutan Darat Penumpang,Transportasi Jalanan
+LSIP,Produk Makanan Pertanian,Perkebunan & Tanaman Pangan
+LTLS,Barang Kimia,Barang Kimia Dasar
+LUCK,Perangkat Komputer,Perangkat Komputer
+LUCY,Pariwisata & Rekreasi,Rumah Makan
+MABA,Pariwisata & Rekreasi,"Hotel, Resor & Kapal Pesiar"
+MAGP,Produk Makanan Pertanian,Perkebunan & Tanaman Pangan
+MAIN,Produk Makanan Pertanian,"Ikan, Daging & Produk Unggas"
+MAMI,Pariwisata & Rekreasi,"Hotel, Resor & Kapal Pesiar"
+MAPA,Ritel Khusus,Ritel Pakaian & Tekstil
+MAPB,Pariwisata & Rekreasi,Rumah Makan
+MAPI,Ritel Khusus,Ritel Pakaian & Tekstil
+MARI,Media,Penyiaran
+MARK,Mesin,Mesin & Komponen Perindustrian
+MASA,Komponen Otomotif,Ban
+MASB,Bank,Bank
+MAYA,Bank,Bank
+MBAP,Batu Bara,Produksi Batu Bara
+MBSS,Batu Bara,Distribusi Batu Bara
+MBTO,Produk Perawatan Tubuh,Produk Perawatan Tubuh
+MCAS,Aplikasi & Jasa Internet,Aplikasi & Jasa Internet
+MCOL,Batu Bara,Produksi Batu Bara
+MCOR,Bank,Bank
+MDIA,Media,Penyiaran
+MDKI,Barang Kimia,Barang Kimia Dasar
+MDLN,Pengelola & Pengembang Real Estat,Pengembang & Operator Real Estat
+MDRN,Jasa Komersial,Peralatan Kantor
+MEDC,Minyak & Gas,Produksi & Penyulingan Minyak & Gas
+MEGA,Bank,Bank
+MERK,Farmasi,Farmasi
+META,Operator Infrastruktur Transportasi,Operator Jalan Tol & Rel
+MFIN,Pembiayaan Konsumen,Pembiayaan Konsumen
+MFMI,Jasa Komersial,Jasa Pendukung Bisnis
+MGLV,Barang Rumah Tangga,Produsen Furnitur Rumah
+MGNA,Perusahaan Holding & Investasi,Perusahaan Investasi
+MGRO,Produk Makanan Pertanian,Perkebunan & Tanaman Pangan
+MICE,Barang Rumah Tangga,Perlengkapan Rumah Tangga
+MIDI,Perdagangan Ritel Barang Primer,Supermarket
+MIKA,Penyedia Jasa Kesehatan,Penyedia Jasa Kesehatan
+MINA,Pariwisata & Rekreasi,"Hotel, Resor & Kapal Pesiar"
+MIRA,Logistik & Pengantaran,Logistik & Pengantaran
+MITI,Minyak & Gas,Produksi & Penyulingan Minyak & Gas
+MKNT,Distributor Barang Konsumen,Distributor Barang Konsumen
+MKPI,Pengelola & Pengembang Real Estat,Pengembang & Operator Real Estat
+MLBI,Minuman,Minuman Keras
+MLIA,Produk & Perlengkapan Bangunan,Produk & Perlengkapan Bangunan
+MLPL,Perusahaan Holding Multi-sektor,Perusahaan Holding Multi-sektor
+MLPT,Jasa & Konsultan TI,Jasa & Konsultan TI
+MMLP,Pengelola & Pengembang Real Estat,Pengembang & Operator Real Estat
+MNCN,Media,Penyiaran
+MOLI,Barang Kimia,Barang Kimia Dasar
+MPMX,Ritel Khusus,Ritel Otomotif
+MPOW,Utilitas Listrik,Utilitas Listrik
+MPPA,Perdagangan Ritel Barang Primer,Supermarket
+MPRO,Pengelola & Pengembang Real Estat,Pengembang & Operator Real Estat
+MRAT,Produk Perawatan Tubuh,Produk Perawatan Tubuh
+MREI,Asuransi,Reasuransi
+MSIN,Hiburan & Film,Hiburan & Film
+MSKY,Media,Penyiaran Berbayar
+MTDL,Perangkat Komputer,Perangkat Komputer
+MTEL,Jasa Telekomunikasi Nirkabel,Jasa Telekomunikasi Nirkabel
+MTFN,Minyak & Gas,Penyimpanan & Distribusi Minyak & Gas
+MTLA,Pengelola & Pengembang Real Estat,Pengembang & Operator Real Estat
+MTPS,Konstruksi Bangunan,Konstruksi Bangunan
+MTRA,Konstruksi Bangunan,Konstruksi Bangunan
+MTSM,Pengelola & Pengembang Real Estat,Pengembang & Operator Real Estat
+MTWI,Asuransi,Asuransi Umum
+MYOH,"Pendukung Minyak, Gas & Batu Bara","Jasa & Perlengkapan Minyak, Gas & Batu Bara"
+MYOR,Makanan Olahan,Makanan Olahan
+MYRX,Pengelola & Pengembang Real Estat,Pengembang & Operator Real Estat
+MYTX,Pakaian & Barang Mewah,Tekstil
+NASA,Pariwisata & Rekreasi,"Hotel, Resor & Kapal Pesiar"
+NASI,Makanan Olahan,Makanan Olahan
+NATO,Pariwisata & Rekreasi,"Hotel, Resor & Kapal Pesiar"
+NELY,Logistik & Pengantaran,Logistik & Pengantaran
+NFCX,Aplikasi & Jasa Internet,Aplikasi & Jasa Internet
+NICK,Perusahaan Holding & Investasi,Perusahaan Investasi
+NICL,Logam & Mineral,Logam & Mineral Lainnya
+NIKL,Logam & Mineral,Logam & Mineral Lainnya
+NIPS,Komponen Otomotif,Suku Cadang Otomotif
+NIRO,Pengelola & Pengembang Real Estat,Pengembang & Operator Real Estat
+NISP,Bank,Bank
+NOBU,Bank,Bank
+NPGF,Barang Kimia,Barang Kimia Pertanian
+NRCA,Konstruksi Bangunan,Konstruksi Bangunan
+NUSA,Pariwisata & Rekreasi,"Hotel, Resor & Kapal Pesiar"
+NZIA,Pengelola & Pengembang Real Estat,Pengembang & Operator Real Estat
+OASA,Jasa Telekomunikasi Nirkabel,Jasa Telekomunikasi Nirkabel
+OBMD,Barang Kimia,Barang Kimia Khusus
+OCAP,Perusahaan Holding & Investasi,Perusahaan Holding Keuangan
+OILS,Produk Makanan Pertanian,Perkebunan & Tanaman Pangan
+OKAS,Barang Kimia,Barang Kimia Dasar
+OMRE,Pengelola & Pengembang Real Estat,Pengembang & Operator Real Estat
+OPMS,Logam & Mineral,Baja & Besi
+PADI,Jasa Investasi,Bank Investasi & Perantara Perdagangan
+PALM,Produk Makanan Pertanian,Perkebunan & Tanaman Pangan
+PAMG,Pengelola & Pengembang Real Estat,Pengembang & Operator Real Estat
+PANI,Makanan Olahan,Makanan Olahan
+PANR,Pariwisata & Rekreasi,Agen Perjalanan
+PANS,Jasa Investasi,Bank Investasi & Perantara Perdagangan
+PBID,Wadah & Kemasan,Wadah & Kemasan
+PBRX,Pakaian & Barang Mewah,"Pakaian, Aksesoris, & Tas"
+PBSA,Konstruksi Bangunan,Konstruksi Bangunan
+PCAR,Perdagangan Ritel Barang Primer,Ritel & Distributor Makanan
+PDES,Pariwisata & Rekreasi,Agen Perjalanan
+PEGE,Perusahaan Holding & Investasi,Perusahaan Holding Keuangan
+PEHA,Farmasi,Farmasi
+PGAS,Minyak & Gas,Penyimpanan & Distribusi Minyak & Gas
+PGJO,Aplikasi & Jasa Internet,Aplikasi & Jasa Internet
+PGLI,Pariwisata & Rekreasi,"Hotel, Resor & Kapal Pesiar"
+PGUN,Produk Makanan Pertanian,Perkebunan & Tanaman Pangan
+PICO,Wadah & Kemasan,Wadah & Kemasan
+PJAA,Pariwisata & Rekreasi,Fasilitas Rekreasi & Olah Raga
+PKPK,"Pendukung Minyak, Gas & Batu Bara","Jasa & Perlengkapan Minyak, Gas & Batu Bara"
+PLAN,Pariwisata & Rekreasi,"Hotel, Resor & Kapal Pesiar"
+PLIN,Pengelola & Pengembang Real Estat,Pengembang & Operator Real Estat
+PMJS,Ritel Khusus,Ritel Otomotif
+PMMP,Makanan Olahan,Makanan Olahan
+PNBN,Bank,Bank
+PNBS,Bank,Bank
+PNGO,Perhutanan & Kertas,Produk Hutan Lainnya
+PNIN,Asuransi,Asuransi Umum
+PNLF,Asuransi,Asuransi Jiwa
+PNSE,Pariwisata & Rekreasi,"Hotel, Resor & Kapal Pesiar"
+POLA,Pembiayaan Konsumen,Pembiayaan Konsumen
+POLI,Pengelola & Pengembang Real Estat,Pengembang & Operator Real Estat
+POLL,Pengelola & Pengembang Real Estat,Pengembang & Operator Real Estat
+POLU,Pakaian & Barang Mewah,"Pakaian, Aksesoris, & Tas"
+POLY,Pakaian & Barang Mewah,Tekstil
+POOL,Perusahaan Holding & Investasi,Perusahaan Holding Keuangan
+PORT,Operator Infrastruktur Transportasi,Operator Pelabuhan
+POSA,Pengelola & Pengembang Real Estat,Pengembang & Operator Real Estat
+POWR,Utilitas Listrik,Utilitas Listrik
+PPGL,Logistik & Pengantaran,Logistik & Pengantaran
+PPRE,Konstruksi Bangunan,Konstruksi Bangunan
+PPRO,Pengelola & Pengembang Real Estat,Pengembang & Operator Real Estat
+PRAS,Komponen Otomotif,Suku Cadang Otomotif
+PRDA,Penyedia Jasa Kesehatan,Penyedia Jasa Kesehatan
+PRIM,Penyedia Jasa Kesehatan,Penyedia Jasa Kesehatan
+PSAB,Logam & Mineral,Emas
+PSDN,Makanan Olahan,Makanan Olahan
+PSGO,Produk Makanan Pertanian,Perkebunan & Tanaman Pangan
+PSKT,Pariwisata & Rekreasi,"Hotel, Resor & Kapal Pesiar"
+PSSI,Batu Bara,Distribusi Batu Bara
+PTBA,Batu Bara,Produksi Batu Bara
+PTDU,Konstruksi Bangunan,Konstruksi Bangunan
+PTIS,Batu Bara,Distribusi Batu Bara
+PTPP,Konstruksi Bangunan,Konstruksi Bangunan
+PTPW,Konstruksi Bangunan,Konstruksi Bangunan
+PTRO,"Pendukung Minyak, Gas & Batu Bara","Jasa & Perlengkapan Minyak, Gas & Batu Bara"
+PTSN,Peralatan Jaringan,Peralatan Jaringan
+PTSP,Pariwisata & Rekreasi,Rumah Makan
+PUDP,Pengelola & Pengembang Real Estat,Pengembang & Operator Real Estat
+PURA,Logistik & Pengantaran,Logistik & Pengantaran
+PURE,Logam & Mineral,Logam & Mineral Lainnya
+PURI,Pengelola & Pengembang Real Estat,Pengembang & Operator Real Estat
+PYFA,Farmasi,Farmasi
+PZZA,Pariwisata & Rekreasi,Rumah Makan
+RAJA,Minyak & Gas,Penyimpanan & Distribusi Minyak & Gas
+RALS,Department Store,Department Store
+RANC,Perdagangan Ritel Barang Primer,Supermarket
+RBMS,Pengelola & Pengembang Real Estat,Pengembang & Operator Real Estat
+RDTX,Pengelola & Pengembang Real Estat,Pengembang & Operator Real Estat
+REAL,Pengelola & Pengembang Real Estat,Pengembang & Operator Real Estat
+RELI,Jasa Investasi,Bank Investasi & Perantara Perdagangan
+RICY,Pakaian & Barang Mewah,"Pakaian, Aksesoris, & Tas"
+RIGS,Batu Bara,Distribusi Batu Bara
+RIMO,Pengelola & Pengembang Real Estat,Pengembang & Operator Real Estat
+RISE,Pariwisata & Rekreasi,"Hotel, Resor & Kapal Pesiar"
+RMBA,Rokok,Rokok
+RMKE,Batu Bara,Distribusi Batu Bara
+ROCK,Pengelola & Pengembang Real Estat,Pengembang & Operator Real Estat
+RODA,Pengelola & Pengembang Real Estat,Pengembang & Operator Real Estat
+RONY,Konstruksi Bangunan,Konstruksi Bangunan
+ROTI,Makanan Olahan,Makanan Olahan
+RSGK,Penyedia Jasa Kesehatan,Penyedia Jasa Kesehatan
+RUIS,"Pendukung Minyak, Gas & Batu Bara","Jasa & Perlengkapan Minyak, Gas & Batu Bara"
+RUNS,Perangkat Lunak,Perangkat Lunak
+SAFE,Pengangkutan Darat Penumpang,Transportasi Jalanan
+SAME,Penyedia Jasa Kesehatan,Penyedia Jasa Kesehatan
+SAMF,Barang Kimia,Barang Kimia Pertanian
+SAPX,Logistik & Pengantaran,Logistik & Pengantaran
+SATU,Pengelola & Pengembang Real Estat,Pengembang & Operator Real Estat
+SBAT,Pakaian & Barang Mewah,Tekstil
+SBMA,Barang Kimia,Barang Kimia Dasar
+SCCO,Kelistrikan,Komponen & Peralatan Kelistrikan
+SCMA,Media,Penyiaran
+SCNP,Barang Rumah Tangga,Peralatan Rumah Tangga
+SCPI,Farmasi,Farmasi
+SDMU,Logistik & Pengantaran,Logistik & Pengantaran
+SDPC,Perdagangan Ritel Barang Primer,Ritel & Distributor Obat-obatan
+SDRA,Bank,Bank
+SFAN,Perusahaan Holding & Investasi,Perusahaan Holding Keuangan
+SGER,Batu Bara,Distribusi Batu Bara
+SGRO,Produk Makanan Pertanian,Perkebunan & Tanaman Pangan
+SHID,Pariwisata & Rekreasi,"Hotel, Resor & Kapal Pesiar"
+SHIP,Minyak & Gas,Penyimpanan & Distribusi Minyak & Gas
+SIDO,Farmasi,Farmasi
+SILO,Penyedia Jasa Kesehatan,Penyedia Jasa Kesehatan
+SIMA,Wadah & Kemasan,Wadah & Kemasan
+SIMP,Produk Makanan Pertanian,Perkebunan & Tanaman Pangan
+SINI,Produk & Perlengkapan Bangunan,Produk & Perlengkapan Bangunan
+SIPD,Produk Makanan Pertanian,"Ikan, Daging & Produk Unggas"
+SKBM,Makanan Olahan,Makanan Olahan
+SKLT,Makanan Olahan,Makanan Olahan
+SKRN,Mesin,Mesin Konstruksi & Kendaraan Berat
+SKYB,Perangkat Lunak,Perangkat Lunak
+SLIS,Ritel Khusus,Ritel Elektronik
+SMAR,Produk Makanan Pertanian,Perkebunan & Tanaman Pangan
+SMBR,Material Konstruksi,Material Konstruksi
+SMCB,Material Konstruksi,Material Konstruksi
+SMDM,Pengelola & Pengembang Real Estat,Pengembang & Operator Real Estat
+SMDR,Logistik & Pengantaran,Logistik & Pengantaran
+SMGR,Material Konstruksi,Material Konstruksi
+SMKL,Wadah & Kemasan,Wadah & Kemasan
+SMMA,Perusahaan Holding & Investasi,Perusahaan Holding Keuangan
+SMMT,Batu Bara,Produksi Batu Bara
+SMRA,Pengelola & Pengembang Real Estat,Pengembang & Operator Real Estat
+SMRU,"Pendukung Minyak, Gas & Batu Bara","Jasa & Perlengkapan Minyak, Gas & Batu Bara"
+SMSM,Komponen Otomotif,Suku Cadang Otomotif
+SNLK,Pariwisata & Rekreasi,"Hotel, Resor & Kapal Pesiar"
+SOCI,Minyak & Gas,Penyimpanan & Distribusi Minyak & Gas
+SOFA,Barang Rumah Tangga,Produsen Furnitur Rumah
+SOHO,Farmasi,Farmasi
+SONA,Department Store,Department Store
+SOSS,Jasa Profesional,Jasa Personalia
+SOTS,Pariwisata & Rekreasi,"Hotel, Resor & Kapal Pesiar"
+SPMA,Wadah & Kemasan,Wadah & Kemasan
+SPTO,Produk & Perlengkapan Bangunan,Produk & Perlengkapan Bangunan
+SQMI,Logam & Mineral,Emas
+SRAJ,Penyedia Jasa Kesehatan,Penyedia Jasa Kesehatan
+SRIL,Pakaian & Barang Mewah,Tekstil
+SRSN,Barang Kimia,Barang Kimia Dasar
+SRTG,Perusahaan Holding & Investasi,Perusahaan Investasi
+SSIA,Konstruksi Bangunan,Konstruksi Bangunan
+SSMS,Produk Makanan Pertanian,Perkebunan & Tanaman Pangan
+SSTM,Pakaian & Barang Mewah,Tekstil
+STAR,Perusahaan Holding & Investasi,Perusahaan Holding Keuangan
+STTP,Makanan Olahan,Makanan Olahan
+SUGI,Minyak & Gas,Produksi & Penyulingan Minyak & Gas
+SULI,Perhutanan & Kertas,Kayu
+SUPR,Jasa Telekomunikasi Nirkabel,Jasa Telekomunikasi Nirkabel
+SURE,Minyak & Gas,Produksi & Penyulingan Minyak & Gas
+SWAT,Perhutanan & Kertas,Kertas
+TALF,Wadah & Kemasan,Wadah & Kemasan
+TAMA,Konstruksi Bangunan,Konstruksi Bangunan
+TAMU,"Pendukung Minyak, Gas & Batu Bara","Jasa & Perlengkapan Minyak, Gas & Batu Bara"
+TAPG,Produk Makanan Pertanian,Perkebunan & Tanaman Pangan
+TARA,Pengelola & Pengembang Real Estat,Pengembang & Operator Real Estat
+TAXI,Pengangkutan Darat Penumpang,Transportasi Jalanan
+TAYS,Makanan Olahan,Makanan Olahan
+TBIG,Jasa Telekomunikasi Nirkabel,Jasa Telekomunikasi Nirkabel
+TBLA,Makanan Olahan,Makanan Olahan
+TEBE,Batu Bara,Distribusi Batu Bara
+TECH,Jasa & Konsultan TI,Jasa & Konsultan TI
+TELE,Ritel Khusus,Ritel Elektronik
+TFAS,Aplikasi & Jasa Internet,Aplikasi & Jasa Internet
+TFCO,Pakaian & Barang Mewah,Tekstil
+TGKA,Makanan Olahan,Makanan Olahan
+TGRA,Utilitas Listrik,Utilitas Listrik
+TIFA,Pembiayaan Konsumen,Pembiayaan Konsumen
+TINS,Logam & Mineral,Logam & Mineral Lainnya
+TIRA,Perdagangan Aneka Barang Perindustrian,Perdagangan Aneka Barang Perindustrian
+TIRT,Perhutanan & Kertas,Kayu
+TKIM,Perhutanan & Kertas,Kertas
+TLKM,Jasa Telekomunikasi,Jasa Telekomunikasi Terintegrasi
+TMAS,Logistik & Pengantaran,Logistik & Pengantaran
+TMPO,Media,Penerbitan
+TNCA,Logistik & Pengantaran,Logistik & Pengantaran
+TOBA,Batu Bara,Produksi Batu Bara
+TOPS,Konstruksi Bangunan,Konstruksi Bangunan
+TOTL,Konstruksi Bangunan,Konstruksi Bangunan
+TOTO,Produk & Perlengkapan Bangunan,Produk & Perlengkapan Bangunan
+TOWR,Jasa Telekomunikasi Nirkabel,Jasa Telekomunikasi Nirkabel
+TOYS,Peralatan Olah Raga & Barang Hobi,Peralatan Olah Raga & Barang Hobi
+TPIA,Barang Kimia,Barang Kimia Dasar
+TPMA,Batu Bara,Distribusi Batu Bara
+TRAM,Batu Bara,Produksi Batu Bara
+TRIL,Perdagangan Aneka Barang Perindustrian,Perdagangan Aneka Barang Perindustrian
+TRIM,Jasa Investasi,Bank Investasi & Perantara Perdagangan
+TRIN,Pengelola & Pengembang Real Estat,Pengembang & Operator Real Estat
+TRIO,Ritel Khusus,Ritel Elektronik
+TRIS,Pakaian & Barang Mewah,"Pakaian, Aksesoris, & Tas"
+TRJA,Pengangkutan Darat Penumpang,Transportasi Jalanan
+TRUE,Pengelola & Pengembang Real Estat,Pengembang & Operator Real Estat
+TRUK,Logistik & Pengantaran,Logistik & Pengantaran
+TRUS,Pembiayaan Konsumen,Pembiayaan Konsumen
+TSPC,Farmasi,Farmasi
+TUGU,Asuransi,Asuransi Umum
+TURI,Ritel Khusus,Ritel Otomotif
+UANG,Pariwisata & Rekreasi,"Hotel, Resor & Kapal Pesiar"
+UCID,Produk Perawatan Tubuh,Produk Perawatan Tubuh
+UFOE,Ritel Khusus,Ritel Elektronik
+ULTJ,Makanan Olahan,Produk Susu Olahan
+UNIC,Barang Kimia,Barang Kimia Dasar
+UNIQ,"Pendukung Minyak, Gas & Batu Bara","Jasa & Perlengkapan Minyak, Gas & Batu Bara"
+UNIT,Pakaian & Barang Mewah,Tekstil
+UNSP,Produk Makanan Pertanian,Perkebunan & Tanaman Pangan
+UNTR,Mesin,Mesin Konstruksi & Kendaraan Berat
+UNVR,Produk Perawatan Tubuh,Produk Perawatan Tubuh
+URBN,Pengelola & Pengembang Real Estat,Pengembang & Operator Real Estat
+UVCR,Aplikasi & Jasa Internet,Aplikasi & Jasa Internet
+VICI,Produk Perawatan Tubuh,Produk Perawatan Tubuh
+VICO,Perusahaan Holding & Investasi,Perusahaan Holding Keuangan
+VINS,Asuransi,Asuransi Umum
+VIVA,Media,Penyiaran
+VOKS,Kelistrikan,Komponen & Peralatan Kelistrikan
+VRNA,Pembiayaan Konsumen,Pembiayaan Konsumen
+WAPO,Produk Makanan Pertanian,Perkebunan & Tanaman Pangan
+WEGE,Konstruksi Bangunan,Konstruksi Bangunan
+WEHA,Pengangkutan Darat Penumpang,Transportasi Jalanan
+WIKA,Konstruksi Bangunan,Konstruksi Bangunan
+WINS,"Pendukung Minyak, Gas & Batu Bara","Jasa & Perlengkapan Minyak, Gas & Batu Bara"
+WMPP,Produk Makanan Pertanian,"Ikan, Daging & Produk Unggas"
+WMUU,Produk Makanan Pertanian,"Ikan, Daging & Produk Unggas"
+WOMF,Pembiayaan Konsumen,Pembiayaan Konsumen
+WOOD,Barang Rumah Tangga,Produsen Furnitur Rumah
+WOWS,"Pendukung Minyak, Gas & Batu Bara","Jasa & Perlengkapan Minyak, Gas & Batu Bara"
+WSBP,Material Konstruksi,Material Konstruksi
+WSKT,Konstruksi Bangunan,Konstruksi Bangunan
+WTON,Material Konstruksi,Material Konstruksi
+YELO,Pendidikan & Jasa Penunjang,Jasa Penunjang Konsumen
+YPAS,Wadah & Kemasan,Wadah & Kemasan
+YULE,Jasa Investasi,Bank Investasi & Perantara Perdagangan
+ZBRA,Perusahaan Holding Multi-sektor,Perusahaan Holding Multi-sektor
+ZINC,Logam & Mineral,Logam & Mineral Lainnya
+ZONE,Ritel Khusus,Ritel Pakaian & Tekstil
+ZYRX,Perangkat Komputer,Perangkat Komputer
+AGRO,Bank,Bank
+AGRS,Bank,Bank
+AHAP,Asuransi,Asuransi Umum
+AKKU,Pariwisata & Rekreasi,"Hotel, Resor & Kapal Pesiar"
+AKPI,Barang Kimia,Barang Kimia Khusus
+AKRA,Minyak & Gas,Penyimpanan & Distribusi Minyak & Gas
+AKSI,Logistik & Pengantaran,Logistik & Pengantaran
+ALDO,Wadah & Kemasan,Wadah & Kemasan
+TBMS,Logam & Mineral,Tembaga
+TCID,Produk Perawatan Tubuh,Produk Perawatan Tubuh
+TCPI,Batu Bara,Distribusi Batu Bara
+TDPM,Barang Kimia,Barang Kimia Dasar
+WGSH,Perangkat Lunak,Perangkat Lunak
+WICO,Perdagangan Ritel Barang Primer,Ritel & Distributor Makanan
+WIFI,Media,Periklanan
+WIIM,Rokok,Rokok
+ARTI,"Pendukung Minyak, Gas & Batu Bara","Jasa & Perlengkapan Minyak, Gas & Batu Bara"
+ATAP,Pengelola & Pengembang Real Estat,Pengembang & Operator Real Estat
+BBLD,Pembiayaan Konsumen,Pembiayaan Konsumen
+COWL,Pengelola & Pengembang Real Estat,Pengembang & Operator Real Estat
+CTTH,Produk & Perlengkapan Bangunan,Produk & Perlengkapan Bangunan
+DOID,"Pendukung Minyak, Gas & Batu Bara","Jasa & Perlengkapan Minyak, Gas & Batu Bara"
+ENVY,Jasa & Konsultan TI,Jasa & Konsultan TI
+GHON,Jasa Telekomunikasi Nirkabel,Jasa Telekomunikasi Nirkabel
+INCF,Perhutanan & Kertas,Produk Hutan Lainnya
+ISSP,Logam & Mineral,Baja & Besi
+LPIN,Komponen Otomotif,Suku Cadang Otomotif
+MDKA,Logam & Mineral,Emas
+PLAS,Perusahaan Holding & Investasi,Perusahaan Holding Keuangan
+PWON,Pengelola & Pengembang Real Estat,Pengembang & Operator Real Estat
+TRST,Wadah & Kemasan,Wadah & Kemasan
